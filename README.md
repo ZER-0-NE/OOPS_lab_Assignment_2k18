@@ -31,3 +31,5 @@ ROLL NO. : 103 <br>
 ### LAB 5: 
 1. ![Queue using Class](https://github.com/ZER-0-NE/OOPS_lab_Assignment_2k18/blob/master/LAB5-roll103/QueueClass.cpp)
 2. ![Stack using Class](https://github.com/ZER-0-NE/OOPS_lab_Assignment_2k18/blob/master/LAB5-roll103/StackClass.cpp)
+3. ![Matrix operations](https://github.com/ZER-0-NE/OOPS_lab_Assignment_2k18/blob/master/LAB5-roll103/matrix.cpp)
+4. ![Polynomial Addition](https://github.com/ZER-0-NE/OOPS_lab_Assignment_2k18/blob/master/LAB5-roll103/polyaddition.cpp)
