@@ -37,6 +37,6 @@ ROLL NO. : 103 <br>
 
 ### LAB 6:
 1.  ![DFS](https://github.com/ZER-0-NE/OOPS_lab_Assignment_2k18/blob/master/LAB6-roll103/dfs.cpp)
-2   ![BFS](https://github.com/ZER-0-NE/OOPS_lab_Assignment_2k18/blob/master/LAB6-roll103/bfs.cpp)
+2.  ![BFS](https://github.com/ZER-0-NE/OOPS_lab_Assignment_2k18/blob/master/LAB6-roll103/bfs.cpp)
 
 
