@@ -33,3 +33,10 @@ ROLL NO. : 103 <br>
 2. ![Stack using Class](https://github.com/ZER-0-NE/OOPS_lab_Assignment_2k18/blob/master/LAB5-roll103/StackClass.cpp)
 3. ![Matrix operations](https://github.com/ZER-0-NE/OOPS_lab_Assignment_2k18/blob/master/LAB5-roll103/matrix.cpp)
 4. ![Polynomial Addition](https://github.com/ZER-0-NE/OOPS_lab_Assignment_2k18/blob/master/LAB5-roll103/polyaddition.cpp)
+
+
+### LAB 6:
+1.  ![DFS](https://github.com/ZER-0-NE/OOPS_lab_Assignment_2k18/blob/master/LAB6-roll103/dfs.cpp)
+2   ![BFS](https://github.com/ZER-0-NE/OOPS_lab_Assignment_2k18/blob/master/LAB6-roll103/bfs.cpp)
+
+
